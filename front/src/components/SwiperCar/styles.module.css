@@ -1,0 +1,15 @@
+.swiperButtonPrev {
+  left: 10px;
+  color: red;
+}
+
+.swiperButtonNext {
+  right: 10px;
+  color: red;
+}
+
+.swiperButtonPrev::after,
+.swiperButtonNext::after {
+  font-size: 24px;
+  font-weight: bold;
+}

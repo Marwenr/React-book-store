@@ -1,0 +1,16 @@
+@media (min-width: 992px) {
+  .sideBar {
+    border-right: 1px solid #cccccc;
+    height: 100%;
+    padding-right: 10px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+}
+
+@media (min-width: 992px) {
+  .search {
+    margin-top: 30px;
+  }
+}
+
